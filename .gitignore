@@ -10,6 +10,7 @@ __pycache__/
 .DS_Store
 
 credentials/
+dir_not_for_github/
 .idea/
 static/
 .DS_Store
